@@ -77,7 +77,7 @@ id,sil_code,sil_name
 77,prg,Prussian
 78,chu,"Slavonic, Old Church"
 79,bul,Bulgarian
-80,SRC,Serbo-Croatian
+80,sout1528,Serbo-Croatian
 81,ces,Czech
 82,pol,Polish
 83,rus,Russian
@@ -108,7 +108,7 @@ id,sil_code,sil_name
 108,noo,Nootka
 109,blc,Bella Coola
 110,cjh,"Chehalis, Upper"
-111,??1,Proto Austronesian
+111,aust1307,Proto Austronesian
 112,haw,Hawaiian
 113,mri,Maori
 114,mrq,"Marquesan, North"
@@ -117,7 +117,7 @@ id,sil_code,sil_name
 117,rtm,Rotuman
 118,ton,Tongan
 119,pmt,Tuamotuan
-120,??2,Proto Polynesian
+120,poly1242,Proto Polynesian
 121,mot,Barí
 122,chb,Chibcha
 123,pbb,Páez
@@ -226,7 +226,6 @@ id,sil_code,sil_name
 308,tam,Tamil
 309,tel,Telugu
 310,bod,Tibetan
-
 311,manm1238,
 312,blan1242,
 313,huuu1240,
